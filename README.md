@@ -1,4 +1,4 @@
-# cmake 简单指北
+# cmake 使用指北
 
 ## section1
 
